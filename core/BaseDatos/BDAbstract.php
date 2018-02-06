@@ -1,5 +1,5 @@
 <?php
-abstract class BDAbstact{
+abstract class BDAbstract{
     
     //Propiedades unicas de la clase
     private static $bd_url = 'bd_url';
